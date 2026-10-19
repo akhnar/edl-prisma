@@ -1,3 +1,4 @@
-www.pipotronic.com
-https://www.leboncoin.fr
+https://www.leboncoin.fr/*
+https://pipotronic.com/*
 https://pipotronic.com/
+https://www.leboncoin.fr/
